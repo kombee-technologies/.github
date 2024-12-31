@@ -82,9 +82,9 @@ Take a look at some of our featured projects:
 
 We’re always looking for exciting opportunities to collaborate and innovate. Feel free to reach out to us or explore our projects:  
 
-- 🌐 [Website](https://www.kombeetech.com)  
-- ✉️ Email: info@kombeetech.com  
-- 📱 LinkedIn: [Kombee Technologies](https://linkedin.com/company/kombeetech)  
+- 🌐 [Website](https://www.kombee.com/in)  
+- ✉️ Email: contact@kombee.com
+- 📱 LinkedIn: [Kombee Technologies](https://in.linkedin.com/company/kombee-global)  
 
 ---
 
