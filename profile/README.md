@@ -44,7 +44,7 @@ At **Kombee Technologies**, we redefine innovation in the IT world by delivering
 
 Explore our wide array of IT services designed to cater to every business need:
 
-### **1. Mobile App Development** 📱
+### **1. [Mobile App Development](https://github.com/mobile-dev-kombee)** 📱
 
 Delivering seamless, feature-rich applications for:
 
