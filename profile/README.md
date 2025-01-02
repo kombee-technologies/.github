@@ -44,7 +44,7 @@ At **Kombee Technologies**, we redefine innovation in the IT world by delivering
 
 Explore our wide array of IT services designed to cater to every business need:
 
-### **1. [Mobile App Development](https://github.com/mobile-dev-kombee)** 📱
+### **1. Mobile App Development** 📱
 
 Delivering seamless, feature-rich applications for:
 
@@ -52,6 +52,8 @@ Delivering seamless, feature-rich applications for:
 - **Native Development**: iOS (Swift, Objective-C), Android (Kotlin, Java).
 - **Progressive Web Apps (PWAs)**.
 - **Wearable and Embedded Systems Apps**.
+
+Explore our expertise in mobile app development with cutting-edge frameworks and discover our open-source tools on our [GitHub](https://github.com/mobile-dev-kombee).
 
 ### **2. Web Development** 🌐
 
