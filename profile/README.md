@@ -2,7 +2,7 @@
 
 **Your Trusted IT Partner for Future-Ready Solutions**
 
-![Welcome Banner](https://via.placeholder.com/1200x400?text=Kombee+Technologies+-+Innovating+IT+Solutions)
+![Welcome Banner](kombee-technologies/.github/profile/image_banner.png)
 
 ---
 
@@ -170,7 +170,7 @@ We’re excited to collaborate and bring your ideas to life!
 - **LinkedIn**: [Kombee Technologies](https://in.linkedin.com/company/kombee-global)
 - **Twitter**: [@KombeeTech](https://twitter.com/KombeeTech)
 
-![Contact Us](https://via.placeholder.com/800x300?text=Your+Innovation+Partner+Awaits!)
+![Contact Us](kombee-technologies/.github/profile/banner_contac_us.png)
 
 ---
 
