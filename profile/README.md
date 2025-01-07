@@ -1,8 +1,5 @@
 # Welcome to **Kombee Technologies** 🚀
-
-**Your Trusted IT Partner for Future-Ready Solutions**
-
-![Welcome Banner](kombee-technologies/.github/profile/image_banner.png)
+![Welcome Banner](image_banner.png)
 
 ---
 
@@ -165,12 +162,7 @@ To empower businesses with innovative, secure, and sustainable IT solutions, fos
 
 We’re excited to collaborate and bring your ideas to life!
 
-- **Website**: [www.kombee.com/in](https://www.kombee.com/in)
-- **Email**: contact@kombee.com
-- **LinkedIn**: [Kombee Technologies](https://in.linkedin.com/company/kombee-global)
-- **Twitter**: [@KombeeTech](https://twitter.com/KombeeTech)
-
-![Contact Us](kombee-technologies/.github/profile/banner_contac_us.png)
+![Contact Us](banner_contac_us.png)
 
 ---
 
