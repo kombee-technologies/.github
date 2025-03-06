@@ -165,13 +165,13 @@ We’re excited to collaborate and bring your ideas to life!
 
 ![Contact Us](banner_contac_us.png)
 
----
+<!-- ---
 
 ## 👥 **Meet the Team**
 
 Our diverse and talented team combines expertise, creativity, and passion to deliver exceptional solutions for your business challenges.
 
-![Dynamic Team](https://via.placeholder.com/800x400?text=Meet+Our+Dynamic+Team)
+![Dynamic Team](https://via.placeholder.com/800x400?text=Meet+Our+Dynamic+Team) -->
 
 ---
 
