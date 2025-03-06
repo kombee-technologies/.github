@@ -143,9 +143,10 @@ To empower businesses with innovative, secure, and sustainable IT solutions, fos
 
 ### **Mobile Apps**
 
-- [Flutter E-Commerce Platform](https://github.com/YourOrg/FlutterECommerceApp) 🛒
-- [React Native Food Delivery App](https://github.com/YourOrg/ReactNativeFoodApp) 🍔
-
+ [Mobile Apps](https://github.com/MobileApp-Dev-Kombee) 🛒
+<!-- - [Flutter E-Commerce Platform](https://github.com/YourOrg/FlutterECommerceApp) 🛒
+- [React Native Food Delivery App](https://github.com/YourOrg/ReactNativeFoodApp) 🍔 -->
+<!-- 
 ### **Web Applications**
 
 - [React.js Portfolio Website](https://github.com/YourOrg/ReactPortfolio) 🌐
@@ -154,7 +155,7 @@ To empower businesses with innovative, secure, and sustainable IT solutions, fos
 ### **Backend Systems**
 
 - [Node.js API Gateway](https://github.com/YourOrg/NodeAPIService) 🔗
-- [Django CRM System](https://github.com/YourOrg/DjangoCRM) 💼
+- [Django CRM System](https://github.com/YourOrg/DjangoCRM) 💼 -->
 
 ---
 
