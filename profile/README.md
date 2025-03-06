@@ -179,4 +179,5 @@ Our diverse and talented team combines expertise, creativity, and passion to del
 
 If you love what we’re building, support us by giving a ⭐ on our projects and following our journey!
 
-![Dynamic Animation](https://via.placeholder.com/800x400?text=Innovation%2C+Delivered+with+Passion)
+kombee-technologies/.github/profile/29Y_6di5usrkc5p2qc1k.jpg
+<!-- ![Dynamic Animation](https://via.placeholder.com/800x400?text=Innovation%2C+Delivered+with+Passion) -->
