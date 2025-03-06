@@ -180,4 +180,4 @@ Our diverse and talented team combines expertise, creativity, and passion to del
 If you love what we’re building, support us by giving a ⭐ on our projects and following our journey!
 
 
-![Dynamic Animation](star_image.json)
+![Dynamic Animation](Animation - 1741261434228.gif)
