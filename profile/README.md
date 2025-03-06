@@ -50,7 +50,7 @@ Delivering seamless, feature-rich applications for:
 - **Progressive Web Apps (PWAs)**.
 - **Wearable and Embedded Systems Apps**.
 
-Explore our expertise in mobile app development with cutting-edge frameworks and discover our open-source tools on our [GitHub](https://github.com/mobile-dev-kombee).
+Explore our expertise in mobile app development with cutting-edge frameworks and discover our open-source tools on our [GitHub](https://github.com/MobileApp-Dev-Kombee).
 
 ### **2. Web Development** 🌐
 
