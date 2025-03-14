@@ -1,5 +1,7 @@
 # Welcome to **Kombee Technologies** 🚀
-![Welcome Banner](image_banner.png)
+<a href="https://www.kombee.com/" target="_blank">
+  <img src="image_banner.png" alt="Welcome Banner">
+</a>
 
 ---
 
