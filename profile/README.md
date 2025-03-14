@@ -165,7 +165,9 @@ To empower businesses with innovative, secure, and sustainable IT solutions, fos
 
 We’re excited to collaborate and bring your ideas to life!
 
-![Contact Us](banner_contac_us.png)
+<a href="https://www.kombee.com/" target="_blank">
+  <img src="banner_contac_us.png" alt="Contact Us Banner">
+</a>
 
 <!-- ---
 
