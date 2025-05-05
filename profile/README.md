@@ -15,19 +15,26 @@ At **Kombee Technologies**, we redefine innovation in the IT world by delivering
 
 ### **[Mobile Development](https://github.com/MobileApp-Dev-Kombee)** 🚀
 
-<p>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
-  <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=white">
-  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white">
-  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white">
-  <img src="https://img.shields.io/badge/FlutterFlow-02569B?style=for-the-badge&logo=flutter&logoColor=white">
-  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white">
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
-  <img src="https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white">
-  <img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white">
-  <img src="https://img.shields.io/badge/Objective--C-A8B9CC?style=for-the-badge&logo=apple&logoColor=white">
-  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white">
-</p>
+
+[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
+[![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactnative.dev/)
+[![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)](https://developer.apple.com/ios/)
+[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://developer.android.com/)
+[![Xamarin](https://img.shields.io/badge/Xamarin-3498db?style=for-the-badge&logo=xamarin&logoColor=white)](https://dotnet.microsoft.com/apps/xamarin)
+[![Ionic](https://img.shields.io/badge/Ionic-3880ff?style=for-the-badge&logo=ionic&logoColor=white)](https://ionicframework.com/)
+[![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
+[![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)](https://developer.apple.com/swift/)
+[![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-03DAC5?style=for-the-badge&logo=jetpack-compose&logoColor=white)](https://developer.android.com/jetpack/compose)
+[![Apache Cordova](https://img.shields.io/badge/Apache_Cordova-E1E1E1?style=for-the-badge&logo=apache-cordova&logoColor=black)](https://cordova.apache.org/)
+[![NativeScript](https://img.shields.io/badge/NativeScript-00A9D1?style=for-the-badge&logo=nativescript&logoColor=white)](https://nativescript.org/)
+[![Kotlin Multiplatform](https://img.shields.io/badge/Kotlin_Multiplatform-0095D9?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/docs/multiplatform.html)
+[![FlutterFlow](https://img.shields.io/badge/FlutterFlow-0960F0?style=for-the-badge&logo=flutter&logoColor=white)](https://flutterflow.io/)
+[![AppGyver](https://img.shields.io/badge/AppGyver-00BFFF?style=for-the-badge&logo=appgyver&logoColor=white)](https://www.appgyver.com/)
+[![Sencha](https://img.shields.io/badge/Sencha-0080FF?style=for-the-badge&logo=sencha&logoColor=white)](https://www.sencha.com/)
+[![React Native Web](https://img.shields.io/badge/React_Native_Web-000000?style=for-the-badge&logo=react&logoColor=61DAFB)](https://necolas.github.io/react-native-web/)
+[![Quasar](https://img.shields.io/badge/Quasar-1976D2?style=for-the-badge&logo=quasar&logoColor=white)](https://quasar.dev/)
+[![Framework7](https://img.shields.io/badge/Framework7-000000?style=for-the-badge&logo=framework7&logoColor=white)](https://framework7.io/)
+[![UIKit](https://img.shields.io/badge/UIKit-000000?style=for-the-badge&logo=uikit&logoColor=white)](https://getuikit.com/)
 
 
 
