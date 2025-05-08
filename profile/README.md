@@ -127,6 +127,28 @@ At **Kombee Technologies**, we redefine innovation in the IT world by delivering
 [![Principle](https://img.shields.io/badge/Principle-FF5C00?style=for-the-badge&logo=principle&logoColor=white)](https://principleformac.com/)
 [![Proto.io](https://img.shields.io/badge/Proto.io-161637?style=for-the-badge&logo=proto.io&logoColor=white)](https://proto.io/)
 
+### **Manual Testing & QA Automation** 🧪🤖🛠️
+
+[![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)](https://www.cypress.io/)
+[![Appium](https://img.shields.io/badge/Appium-47226C?style=for-the-badge&logo=appium&logoColor=white)](https://appium.io/)
+[![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![WebdriverIO](https://img.shields.io/badge/WebdriverIO-EA5D5D?style=for-the-badge&logo=webdriverio&logoColor=white)](https://webdriver.io/)
+[![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white)](https://cucumber.io/)
+[![Allure](https://img.shields.io/badge/Allure-1C1E26?style=for-the-badge&logo=allure&logoColor=white)](https://docs.qameta.io/allure/)
+[![Gherkin](https://img.shields.io/badge/Gherkin-5A69A6?style=for-the-badge&logo=gherkin&logoColor=white)](https://cucumber.io/docs/gherkin/)
+[![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)](https://www.atlassian.com/software/jira)
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
+[![Microsoft Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel)
+[![TestRail](https://img.shields.io/badge/TestRail-1E4C8F?style=for-the-badge&logoColor=white)](https://www.testrail.com/)
+[![JMeter](https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apache&logoColor=white)](https://jmeter.apache.org/)
+[![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)](https://trello.com/)
+[![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/)
+[![pCloudy](https://img.shields.io/badge/pCloudy-2E86C1?style=for-the-badge&logoColor=white)](https://www.pcloudy.com/)
+[![BlazeMeter](https://img.shields.io/badge/BlazeMeter-F05032?style=for-the-badge&logoColor=white)](https://www.blazemeter.com/)
+[![Asana](https://img.shields.io/badge/Asana-273347?style=for-the-badge&logo=asana&logoColor=white)](https://asana.com/)
+
+
+
 ---
 
 ## 💼 **Our Services**
@@ -223,6 +245,30 @@ Connecting devices and enabling smarter systems:
 - Sensor Integration & Data Collection.
 - Real-time Monitoring Systems.
 
+### **11. QA Automation** 
+
+Delivering high-quality, bug-free software through intelligent automation
+
+- **Web Testing**: Cypress for modern web apps.
+- **Mobile Testing**: Appium and WebdriverIO for Android & iOS automation.
+- **BDD Frameworks**: Cucumber with Gherkin for readable test cases.
+- **Tags**: Run specific tests like @smoke, @regression.
+- **Headless Execution**: Faster tests in CI/CD pipelines.
+- **API Integration**: Cypress for backend validation and state change.
+- **Performance Testing**: JMeter for load and stress testing.
+- **CI/CD Integration**: GitHub Actions for automated test runs.
+- **Test Reports**: Allure for detailed, visual test reports.
+- **Language**: Javascript
+
+### **12. Manual Testing**
+
+- **Functional Testing**: Performed smoke, sanity, regression, and integration tests to ensure core features function properly and updates do not break functionality.
+- **Collaboration & Agile Practices**: Participated in stand-ups, sprint planning, and retrospectives, contributing to testability and acceptance criteria discussions.
+- **Test Case Management & Reporting**: Created and executed test cases using TestRail and Excel; logged and tracked defects using tools like JIRA, Trello, Asana and Azure DevOps.
+- **UAT & Stakeholder Collaboration**: Participated in User Acceptance Testing, coordinating closely with stakeholders to validate business requirements and secure sign-off.
+- **UI/UX Validation & Responsive Testing**: Verified UI consistency, accessibility, and tested mobile/tablet touch gestures (swipe, tap, long press) and responsiveness.
+- **Cross-Platform & Multi-Device Testing**: Tested apps across browsers, OS, and devices (smartphones, tablets, desktops) to ensure consistent performance.
+- **API Testing**: Validated APIs using Postman to check response codes, data integrity, and error handling.
 ---
 
 ## 🎯 **Our Mission**
