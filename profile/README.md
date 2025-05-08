@@ -238,9 +238,10 @@ To empower businesses with innovative, secure, and sustainable IT solutions, fos
  [Mobile Apps](https://github.com/MobileApp-Dev-Kombee) 🛒
 <!-- - [Flutter E-Commerce Platform](https://github.com/YourOrg/FlutterECommerceApp) 🛒
 - [React Native Food Delivery App](https://github.com/YourOrg/ReactNativeFoodApp) 🍔 -->
-<!--
-### **Web Applications**
 
+### **Web Applications**
+[Web Development](https://github.com/WebDev-Kombee) 💻
+<!--
 - [React.js Portfolio Website](https://github.com/YourOrg/ReactPortfolio) 🌐
 - [Angular Admin Dashboard](https://github.com/YourOrg/AngularDashboard) 🛠️
 
